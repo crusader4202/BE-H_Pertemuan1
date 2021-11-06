@@ -1,0 +1,21 @@
+h3 {
+    color: green;
+    font-size: 40px;
+    font-weight: normal;
+    font-style: italic;
+    font-family: "Courier New", Courier, monospace;
+}
+
+#inputn {
+    border: 2px solid;
+    border-radius: 10px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 200px;
+    width: 100%;
+    background-color: blueviolet;
+}
